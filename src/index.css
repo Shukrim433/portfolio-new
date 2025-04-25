@@ -3,3 +3,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.carousel {
+    transform: translateY(150px);
+    transition: transform 1s ease-in-out;
+}
+
+.carousel.page-loaded {
+    transform: translateY(0);
+}
