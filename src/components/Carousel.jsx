@@ -85,7 +85,7 @@ const Carousel = () => {
 
 
   return (
-    <div className={`carousel ${loaded ? "page-loaded": ""} relative px-8 bg-neutral-800 overflow-hidden bg-[url("./assets/Atonement3.jpeg")] bg-contain bg-no-repeat w-full h-0 pt-[54.11%] mt-[7vh] lg:mt-[30vh] rounded-[28px]  sm:rounded-[60px]`}>
+    <div className={`carousel ${loaded ? "page-loaded": ""} relative px-8 bg-neutral-800 overflow-hidden bg-[url("./assets/Atonement3.jpeg")] bg-contain bg-no-repeat w-full h-0 pt-[54.11%] mt-[7vh] lg:mt-[10vh] xl:mt-[30vh] rounded-[28px]  sm:rounded-[60px]`}>
       <motion.div
         drag="x"
         dragConstraints={{
