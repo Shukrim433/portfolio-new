@@ -13,6 +13,9 @@ const Home = () => {
         <p className="text-xl sm:text-2xl lg:text-4xl">Web Developer</p>
       </div>
       <Carousel />
+      <div className="flex items-center justify-center mt-8 lg:mt-14">
+        <span className=" w-[80vw] h-[1.5px] bg-black"></span>
+      </div>
       <Timeline />
     </div>
   );
