@@ -4,6 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* transition - makes carousel slide up */
 .carousel {
     transform: translateY(150px);
     transition: transform 1s ease-in-out;
@@ -11,4 +12,12 @@
 
 .carousel.page-loaded {
     transform: translateY(0);
+}
+
+/* transition - makes overlay div on each project slide in from the right */
+/* .overlay-div{
+    transition: 0.5s;
+} */
+.project-container:hover .overlay-div {
+    right: 0;
 }

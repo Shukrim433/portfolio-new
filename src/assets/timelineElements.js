@@ -11,7 +11,7 @@ let timelineElements = [
     id: 2,
     title: "Full Stack Web Development Bootcamp",
     institution: "University of Birmingham",
-    description: "bla bla bla",
+    description: "A 6 month long bootcamp where I built 3 websites within teams and multiple other websites individually",
     date: "2024",
     type: "school"
   },
@@ -19,7 +19,7 @@ let timelineElements = [
     id: 3,
     title: "Stock Processor",
     institution: "Cancer Research UK",
-    description: "bla bla bla",
+    description: "Processed and managed donated stock and delivered stellar customer service from all areas of the shop.",
     date: "2023",
     type: "work"
   },
@@ -27,7 +27,7 @@ let timelineElements = [
     id: 4,
     title: "Temporary Sales Assistant",
     institution: "H&M",
-    description: "bla bla bla",
+    description: "Temporary sales assistant, working in a fast paced retail environment during the christmas period.",
     date: "2022",
     type: "work"
   },
@@ -35,7 +35,7 @@ let timelineElements = [
     id: 4,
     title: "A Levels",
     institution: "Broadway Academy",
-    description: "bla bla bla",
+    description: "-Biology – A Sociology – A* Business – B",
     date: "2022",
     type: "school"
   },
@@ -43,7 +43,7 @@ let timelineElements = [
     id: 5,
     title: "GCSEs",
     institution: "Birchfield Independant Girls School",
-    description: "bla bla bla",
+    description: " English Literature – 7 English Language – 6 Mathematics – 8 Combined Science – 8-8History – 8 Religious Studies – 8 Arabic – 5",
     date: "2020",
     type: "school"
   },
