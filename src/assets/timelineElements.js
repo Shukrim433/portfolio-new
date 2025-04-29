@@ -32,7 +32,7 @@ let timelineElements = [
     type: "work"
   },
   {
-    id: 4,
+    id: 5,
     title: "A Levels",
     institution: "Broadway Academy",
     description: "-Biology – A Sociology – A* Business – B",
@@ -40,7 +40,7 @@ let timelineElements = [
     type: "school"
   },
   {
-    id: 5,
+    id: 6,
     title: "GCSEs",
     institution: "Birchfield Independant Girls School",
     description: " English Literature – 7 English Language – 6 Mathematics – 8 Combined Science – 8-8History – 8 Religious Studies – 8 Arabic – 5",
