@@ -4,7 +4,7 @@ import Timeline from "../components/Timeline";
 
 const Home = () => {
   return (
-    <div className="flex flex-col gap-8 py-10 font-custom">
+    <div className="flex flex-col gap-8 py-10 font-custom mt-32 ">
       <h1 className="text-6xl sm:text-8xl lg:text-9xl">
         PORTFOLIO<span className="text-red">.</span>
       </h1>
@@ -14,7 +14,7 @@ const Home = () => {
       </div>
       <Carousel />
       <div className="flex items-center justify-center mt-14">
-        <span className=" w-[80vw] h-[1px] bg-black"></span>
+        <span className=" w-[100vw] h-[1px] bg-black"></span>
       </div>
       <Timeline />
     </div>

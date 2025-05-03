@@ -106,7 +106,7 @@ const Carousel = () => {
     <div
       className={`carousel ${
         loaded ? "page-loaded" : ""
-      } relative px-8 bg-neutral-800 overflow-hidden bg-[url("./assets/Atonement3.jpeg")] bg-contain bg-no-repeat w-full h-0 pt-[54.11%] mt-[7vh] lg:mt-[10vh] xl:mt-[20vh] rounded-[28px]  sm:rounded-[60px]`}
+      } relative px-8 bg-neutral-800 overflow-hidden bg-[url("./assets/Atonement3.jpeg")] bg-contain bg-no-repeat w-full h-0 pt-[54.11%] mt-[7vh] lg:mt-[10vh] xl:mt-[25vh] rounded-[28px]  sm:rounded-[60px]`}
     >
       <motion.div
         className="flex gap-3 absolute bottom-3 sm:bottom-16 lg:bottom-7 2xl:bottom-54  items-center cursor-grab"
