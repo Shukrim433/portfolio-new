@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="App flex flex-col min-h-[100vh] px-[3vw] sm:px-[5vw] md:px-[7vw] lg:px-[9vw] bg-beige">
+    <div className="App flex flex-col min-h-[100vh] bg-beige">
       <Navbar />
       <div className="body">
         <Outlet />
