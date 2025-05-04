@@ -4,7 +4,7 @@ import RightArrow from "../assets/RightArrow";
 
 const Projects = () => {
   return (
-    <div className="flex flex-col gap-10 py-10 font-custom mt-32">
+    <div className="flex flex-col gap-10 py-10 font-custom mt-32  px-[3vw] sm:px-[5vw] md:px-[7vw] lg:px-[9vw]">
       <h1 className="flex gap-2 text-6xl md:text-8xl">PROJECTS<p className="text-red animate-bounce">.</p></h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
       {projects.map((project, index) => (

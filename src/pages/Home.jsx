@@ -4,7 +4,7 @@ import Timeline from "../components/Timeline";
 
 const Home = () => {
   return (
-    <div className="flex flex-col gap-8 py-10 font-custom mt-32 ">
+    <div className="flex flex-col gap-8 py-10 font-custom mt-32  px-[3vw] sm:px-[5vw] md:px-[7vw] lg:px-[9vw]">
       <h1 className="text-6xl sm:text-8xl lg:text-9xl">
         PORTFOLIO<span className="text-red">.</span>
       </h1>
