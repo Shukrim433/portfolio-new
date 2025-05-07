@@ -10,7 +10,9 @@ const Projects = () => {
         <h1 className="flex gap-2 text-6xl md:text-8xl">
           PROJECTS<p className="text-red">.</p>
         </h1>
-        <Link to="https://github.com/Shukrim433?tab=repositories">
+        <Link
+        className="hidden md:flex"
+        to="https://github.com/Shukrim433?tab=repositories">
           <p className="flex gap-2 text-lg text-black pr-2 items-center justify-end cursor-pointer hover:text-red">
             See more <RightArrow />{" "}
           </p>
@@ -35,6 +37,13 @@ const Projects = () => {
           </div>
         ))}
       </div>
+      <Link
+        className="flex justify-end md:hidden"
+        to="https://github.com/Shukrim433?tab=repositories">
+          <p className="flex gap-2 text-lg text-black pr-2 items-center justify-end cursor-pointer hover:text-red">
+            See more <RightArrow />{" "}
+          </p>
+        </Link>
     </div>
   );
 };
