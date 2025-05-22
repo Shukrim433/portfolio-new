@@ -1,4 +1,5 @@
 import React from "react";
+import CV from "../assets/CV.pdf"
 
 const About = () => {
   return (
@@ -58,7 +59,10 @@ const About = () => {
           </p>
         </div>
         <button className="bg-red text-beige px-12 py-3 mt-14 rounded-lg hover:bg-black">
-          Download CV
+        <a href={CV} download="CV">
+              Download CV
+            </a>
+          
         </button>
       </div>
     </div>
