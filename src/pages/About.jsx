@@ -19,7 +19,7 @@ const About = () => {
           <p>
             I am a{" "}
             <span style={{ color: "#8c0000" }}>Volunteer Junior Developer</span>{" "}
-            at Thomas King, with an extensive technical skillset in both
+            at Thomas King, with experience in both
             front-end and back-end development.
           </p>{" "}
           <br />
@@ -30,11 +30,7 @@ const About = () => {
             course gave me hands-on experience working on a multitude of
             projects of varying sizes and complexity. I also had the opportunity
             to collaborate on group projects, which gave me the opportunity to
-            experience coding in a team setting. I have created sites that rely
-            solely on front-end frameworks and technologies like{" "}
-            <span style={{ color: "#8c0000" }}>React, Handlebars</span>, etc.,
-            as well as sites that utilize
-            <span style={{ color: "#8c0000" }}> SQL and NoSQL </span> databases.
+            experience coding in a team setting. 
           </p>
           <br />
           <p>
@@ -49,13 +45,11 @@ const About = () => {
             at the University of Birmingham. While on my gap year, my mother
             convinced me to pick up a new skill to spend my off-time more
             productively. This is when I came across the world of coding and web
-            development. I came to enjoy coding so much that I made the tough
-            decision to withdraw from university just before i was due to start.
-            I realized that{" "}
-            <span style={{ color: "#8c0000" }}>
-              dentistry was not the path for me;
+            development. That is when I made the decision to pursue web development further.{" "}
+            I had always known  
+            <span className="ml-1" style={{ color: "#8c0000" }}>
+               dentistry was not the path for me.
             </span>{" "}
-            instead, my true interest was in coding and web development.
           </p>
         </div>
         <button className="bg-red text-beige px-12 py-3 mt-14 rounded-lg hover:bg-black">
