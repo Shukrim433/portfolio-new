@@ -1,37 +1,37 @@
 [
   {
     "name": "Foodie",
-    "src": "/Atonement6.jpg",
+    "src": "/mockup-imgs/Foodie-src.png",
     "link": "https://shukrim433.github.io/Foodie/",
     "repo": "https://github.com/Shukrim433/Foodie"
   },
   {
     "name": "Tech Hive",
-    "src": "/Atonement5.jpg",
+    "src": "/mockup-imgs/TechHive-src.png",
     "link": "https://tech-hive-11.onrender.com/",
     "repo": "https://github.com/Shukrim433/Tech-Hive"
   },
   {
     "name": "Threadly",
-    "src": "/Atonement1.jpeg",
+    "src": "/mockup-imgs/Threadly-src.png",
     "link": "https://threadly-1kxd.onrender.com/",
     "repo": "https://github.com/Shukrim433/Threadly.git"
   },
   {
     "name": "Nanny Stork",
-    "src": "/Atonement7.jpg",
+    "src": "/mockup-imgs/NannyStork-src.png",
     "link": "https://nanny-stork.onrender.com/",
     "repo": "https://github.com/Shukrim433/nanny-stork"
   },
   {
     "name": "Chat App",
-    "src": "/Atonement9.jpg",
+    "src": "/mockup-imgs/Chatapp-src.png",
     "link": "https://chat-app-1jfo.onrender.com/",
     "repo": "https://github.com/Shukrim433/chat-app.git"
   },
   {
     "name": "Tech Blog",
-    "src": "/Atonement4.jpeg",
+    "src": "/mockup-imgs/Techblog-src.png",
     "link": "https://tech-blog-11.onrender.com/",
     "repo": "https://github.com/Shukrim433/Week-14-tech-blog-challenge"
   }
