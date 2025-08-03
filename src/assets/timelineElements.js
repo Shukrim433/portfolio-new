@@ -4,7 +4,7 @@ let timelineElements = [
     title: "Volunteer Junior Developer",
     institution: "Thomas King",
     description: "Volunteer Junior Developer at a Software Development business. ",
-    date: "2025- current",
+    date: "2025",
     type: "work"
   },
   {
